@@ -13,5 +13,5 @@
     "allowJs": true,
     "types": ["vitest/importMeta"]
   },
-  "exclude": ["node_modules", "dist"]
+  "exclude": ["node_modules", "dist", "coverage"]
 }
