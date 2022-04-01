@@ -20,7 +20,9 @@ This project is aimed at helping you better understand how the regex works, writ
 > Click the following badges to see details of the challenges.
 
 <!--challenges-start-->
+
 <img src="https://img.shields.io/badge/Ava-1-9AC8E2" alt="1"/><br><a href="./questions/1-Ava-hello-world/README.md" target="_blank"><img src="https://img.shields.io/badge/-1%E3%83%BBHello%20World-9AC8E2" alt="1・Hello World"/></a> <br><details><summary>By Plain Text</summary><br><h3>Ava (1)</h3><ul><li><a href="./questions/1-Ava-hello-world/README.md" target="_blank">1・Hello World</a> </li></ul></details><br>
+
 <!--challenges-end-->
 
 > ✨ [Upcoming challenges](https://github.com/ryanmoyo/regex-challenges/issues?q=is%3Aissue+is%3Aopen+label%3Anew-challenge)
@@ -55,7 +57,7 @@ Just [open an issue](https://github.com/ryanmoyo/regex-challenges/issues/new/cho
 
 ## Thanks
 
-This project was born from solving real-world regex problems. And great thanks to [@antfu](https://github.com/antfu) with [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges).
+This project was born from solving real-world regex problems. And great thanks to [@antfu](https://github.com/antfu) with [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges), [@patak](https://github.com/patak-dev) with [vitest-dev/vitest](https://github.com/vitest-dev/vitest) which is also builded by [@antfu](https://github.com/antfu).
 
 - [Ava 向晚](https://space.bilibili.com/672346917)
 - [Bella 贝拉](https://space.bilibili.com/672353429)
