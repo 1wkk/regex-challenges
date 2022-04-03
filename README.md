@@ -20,9 +20,7 @@ This project is aimed at helping you better understand how the regex works, writ
 > Click the following badges to see details of the challenges.
 
 <!--challenges-start-->
-
-<img src="https://img.shields.io/badge/Ava-1-9AC8E2" alt="1"/><br><a href="./questions/1-Ava-hello-world/README.md" target="_blank"><img src="https://img.shields.io/badge/-1%E3%83%BBHello%20World-9AC8E2" alt="1・Hello World"/></a> <br><details><summary>By Plain Text</summary><br><h3>Ava (1)</h3><ul><li><a href="./questions/1-Ava-hello-world/README.md" target="_blank">1・Hello World</a> </li></ul></details><br>
-
+<img src="https://img.shields.io/badge/Ava-1-9AC8E2" alt="1"/><br><a href="./questions/1-Ava-hello-world/README.md" target="_blank"><img src="https://img.shields.io/badge/-1%E3%83%BBHello%20World-9AC8E2" alt="1・Hello World"/></a> <br><br><img src="https://img.shields.io/badge/Bella-1-DB7D74" alt="1"/><br><a href="./questions/2-Bella-xml/README.md" target="_blank"><img src="https://img.shields.io/badge/-2%E3%83%BBMatch%20all%20XML%20tags-DB7D74" alt="2・Match all XML tags"/></a> <br><details><summary>By Plain Text</summary><br><h3>Ava (1)</h3><ul><li><a href="./questions/1-Ava-hello-world/README.md" target="_blank">1・Hello World</a> </li></ul><h3>Bella (1)</h3><ul><li><a href="./questions/2-Bella-xml/README.md" target="_blank">2・Match all XML tags</a> </li></ul></details><br>
 <!--challenges-end-->
 
 > ✨ [Upcoming challenges](https://github.com/ryanmoyo/regex-challenges/issues?q=is%3Aissue+is%3Aopen+label%3Anew-challenge)

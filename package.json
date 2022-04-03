@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "t": "vitest",
-    "c": "vitest run --coverage && serve coverage -p 22331",
+    "c": "vitest run --coverage",
     "s": "serve coverage -p 22331 -C -s & open http://localhost:22331",
     "r": "esno ./scripts/readme.ts"
   },
