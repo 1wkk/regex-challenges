@@ -1,4 +1,4 @@
-<!--info-header-start--><h1>Hello World <img src="https://img.shields.io/badge/-Ava-9AC8E2" alt="Ava"/> </h1><blockquote><p>by Eureka <a href="https://github.com/ryanmoyo" target="_blank">@ryanmoyo</a></p></blockquote><p></p><!--info-header-end-->
+<!--info-header-start--><h1>Hello World <img src="https://img.shields.io/badge/-Ava-9AC8E2" alt="Ava"/> </h1><blockquote><p>by Eureka <a href="https://github.com/echoeureka" target="_blank">@echoeureka</a></p></blockquote><p></p><!--info-header-end-->
 ```ts
 const regex = /love/
 

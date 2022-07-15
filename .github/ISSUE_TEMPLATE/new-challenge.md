@@ -3,7 +3,7 @@ name: New Challenge
 about: Propose a new challenge.
 title: ''
 labels: new-challenge
-assignees: ryanmoyo
+assignees: echoeureka
 
 ---
 

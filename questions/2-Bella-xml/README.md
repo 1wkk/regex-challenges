@@ -1,4 +1,4 @@
-<!--info-header-start--><h1>Match all XML tags <img src="https://img.shields.io/badge/-Bella-DB7D74" alt="Bella"/> </h1><blockquote><p>by Eureka <a href="https://github.com/ryanmoyo" target="_blank">@ryanmoyo</a></p></blockquote><p></p><!--info-header-end-->
+<!--info-header-start--><h1>Match all XML tags <img src="https://img.shields.io/badge/-Bella-DB7D74" alt="Bella"/> </h1><blockquote><p>by Eureka <a href="https://github.com/echoeureka" target="_blank">@echoeureka</a></p></blockquote><p></p><!--info-header-end-->
 ```ts
 const regex: RegExp = / /
 

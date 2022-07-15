@@ -3,7 +3,7 @@ name: Bug
 about: I found some thing wrong!
 title: ''
 labels: bug
-assignees: ryanmoyo
+assignees: echoeureka
 
 ---
 
